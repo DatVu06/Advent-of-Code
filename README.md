@@ -1,3 +1,6 @@
-## Advent of Code 2024 
+## Advent of Code
 
-All solutions are in Python 3.12.8, will redo some in other languages if I feel like it
+Each year I'll try to finish AoC with a different language!
+
+- 2024: Python 3.12.8
+- 2025: Scala 3.7.4
